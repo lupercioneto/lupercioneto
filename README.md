@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **lupercionetocontato@gmail.com**
 
-- ⚡ Fun fact **I love Daft Punk**
+- ⚡ Fun fact: **I love Daft Punk** 🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
