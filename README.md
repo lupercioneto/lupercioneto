@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lupercio Neto</h1>
 <h3 align="center">Um estudante iniciante de ADS 💻👶</h3>
 
-- 🌱 I’m currently learning: **Programming Languages (Python, for now); MarkUp Languages (HTML and Markdown) and CSS 🌠**
+- 🌱 I’m currently learning: **Programming Languages** (**Python** and **SQL**, for now); **MarkUp Languages** (**HTML** and **Markdown**) and **CSS** 🌠;
 
 - 📫 How to reach me: **lupercionetocontato@gmail.com**
 
